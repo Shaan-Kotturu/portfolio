@@ -399,9 +399,12 @@ p {
 }
 
 #projects .project-link {
-  color: #496c9e;          
+ font-size: 1.1rem;
+  font-weight: 700;
+  color: #3e0be3;
   text-decoration: none;
-  font-weight: bold;
+  display: inline-block;
+  margin-top: 16px;
 }
 
 #projects .project-link:hover {
@@ -713,6 +716,7 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
 
 
 
