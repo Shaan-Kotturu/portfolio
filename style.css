@@ -397,6 +397,18 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+
+#projects .project-link {
+  color: #d1d5db;          /* soft light grey */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+#projects .project-link:hover {
+  color: #e63946;          /*  red accent */
+  text-decoration: underline;
+}
+
 /* End Projects section */
 
 /* About Section */
@@ -701,3 +713,4 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
