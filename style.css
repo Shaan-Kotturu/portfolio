@@ -401,7 +401,7 @@ p {
 #projects .project-link {
  font-size: 1.1rem;
   font-weight: 700;
-  color: #3e0be3;
+  color: ##d1d5db;
   text-decoration: none;
   display: inline-block;
   margin-top: 16px;
@@ -716,6 +716,7 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
 
 
 
